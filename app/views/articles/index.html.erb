@@ -1,0 +1,9 @@
+<H1>Wikinimous</H1>
+
+
+<ul>
+  <% @articles.each do |article| %>
+    <li id="linky"> <%= link_to article.title, article_path(article) %></li>
+  <%end %>
+
+</ul>

@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ #linky {
+  font-size: 22;
+  color: blue;
+  text-decoration: none;
+
+ }
+
+ ul {
+  text-decoration: none;
+ }
+
+ h1 {
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  color: blueviolet;
+ }
+ h2 {
+  font-size: ;
+ }
